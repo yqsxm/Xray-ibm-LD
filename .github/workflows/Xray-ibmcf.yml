@@ -2,7 +2,8 @@
 name: IBM Cloud Foundry - Xray
  
 env:
-  IBM_CF_API: https://api.eu-gb.cf.cloud.ibm.com
+  IBM_CF_API: https://api.us-south.cf.cloud.ibm.com
+#  IBM_CF_API: https://api.eu-gb.cf.cloud.ibm.com
   IBM_CF_APP_MEM: 256M
 
 on:
